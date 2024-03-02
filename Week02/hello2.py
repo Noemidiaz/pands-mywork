@@ -6,3 +6,5 @@ name = input ("say your name :")
 print ("Hello" + name)
 
 
+name = input ("Enter your name:")
+print ('Hello'+ name + '\nNice to meet you')
